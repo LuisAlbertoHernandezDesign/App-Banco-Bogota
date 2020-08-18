@@ -1,0 +1,6 @@
+.footer{
+  position:absolute;
+  bottom:0px;/*para dejar el pie de pagina al final*/
+  height:60px;
+  width:100%;
+}
